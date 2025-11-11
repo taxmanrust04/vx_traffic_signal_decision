@@ -131,11 +131,11 @@ This section outlines how to verify that the **Traffic Signal Decision** correct
 
 4. **Show Coverage Report**
    ```bash
-   python3 -m coverage report -m
+   python3 -m coverage report -m install/traffic_signal_decision/lib/python3.10/site-packages/traffic_signal_decision/traffic_signal_decision_node.py
    ```
  
 5. **Generate HTML Coverage Report**
    ```bash
-   python3 -m coverage html --directory=src/traffic_signal_decision/test/htmlcov --source=traffic_signal_decision
+   python3 -m coverage html --directory=src/traffic_signal_decision/test/htmlcov
    ```
 
