@@ -1,4 +1,4 @@
-[Ravikumar Shivlal Savaliya](https://git.hs-coburg.de/ravisavaliya) : Traffic Signal Decision
+
 ---
 
 ## 📌 Table of Contents
